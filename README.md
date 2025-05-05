@@ -31,8 +31,8 @@ yer almaktadır.
 
 ## 🖼️ Dashboard Görseli
 
-![Dashboard Görseli](./assets/MainPage.png) (./assets/SecondPage.png)
-
+![Dashboard Görseli](./assets/MainPage.png) 
+![Dashboard Görseli](./assets/SecondPage.png) 
 
 > Görsel temsili olup, Power BI dosyasını indirerek etkileşimli olarak inceleyebilirsiniz.
 
