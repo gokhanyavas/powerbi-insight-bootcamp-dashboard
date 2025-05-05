@@ -43,15 +43,13 @@ yer almaktadır.
 
 ## 📌 Notlar
 
-- Veri seti eğitmenler tarafından örnek amaçlı sağlanmıştır.
+- Veri seti eğitmen tarafından örnek amaçlı sağlanmıştır.
 - Proje, kişisel öğrenim ve portfolyo amacıyla paylaşılmıştır.
 
 ## 📬 İletişim
 
 Bu proje veya Power BI ile ilgili deneyim paylaşımı için bana ulaşabilirsiniz:
 
-[LinkedIn Profilim](https://www.linkedin.com/in/senin-profilin)
+[LinkedIn Profilim](https://www.linkedin.com/in/gokhanyavas)
 
----
 
-© 2025 – Insight Bootcamp | Hazırlayan: *Ad Soyad*
